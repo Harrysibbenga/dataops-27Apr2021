@@ -1,0 +1,1 @@
+New notes for Data ops read me training
